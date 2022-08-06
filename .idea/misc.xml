@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/drawable/badge_item_count.xml" value="0.114" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout-v26/activity_smell_types.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout/activity_second.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout/activity_smell_type_form.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout/activity_smell_types.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout/smell_list_fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout/smell_local_list_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout/smell_remote_list_fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jules/Documents/several_projects/Smell/app/src/main/res/layout/smell_type.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

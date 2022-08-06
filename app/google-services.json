@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653017397358",
+    "project_id": "smellmobileapp",
+    "storage_bucket": "smellmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653017397358:android:3fb579997c6433b0788e7f",
+        "android_client_info": {
+          "package_name": "com.example.smell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653017397358-gduocvpar2rt9jh1vf96jechgq5seo6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smell",
+            "certificate_hash": "620257c94823c8be8b4828e3402ae57d04e5ca44"
+          }
+        },
+        {
+          "client_id": "653017397358-1t76glgluos0ke9oi3dftcpmmbn5kbhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXAN-OPFIwzTdtccyINxtGFKuCroeUWB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653017397358-1t76glgluos0ke9oi3dftcpmmbn5kbhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
